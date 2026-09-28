@@ -99,6 +99,12 @@ button:focus {
     padding: 1rem;
     margin-top: 0.5rem;
   }
+  .navbar-brand {
+    margin-left: 15px;
+  }
+  .navbar-toggler {
+    margin-right: 15px;
+  }
 }
 
 .hero {
